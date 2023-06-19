@@ -1,2 +1,2 @@
 # musicDuo
-merge two playlists to youtube music and spotify in one app
+merge two playlists from youtube music and spotify and export to one app
